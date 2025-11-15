@@ -1,0 +1,5 @@
+[
+  { "device_id": "sensor-1", "location_name": "CSS" },
+  { "device_id": "sensor-2", "location_name": "CEA" },
+  { "device_id": "sensor-3", "location_name": "HM" }
+]
